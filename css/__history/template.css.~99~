@@ -132,7 +132,7 @@ body {
 
 }
 
-#user6 {
+.user6 {
 	padding: 10px; 
 	color: #fff; 
 	background: #b5bdc8;

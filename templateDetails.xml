@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <install version="1.5" type="template">
-	<name>JA_Purity</name>
-	<version>1.2.0</version>
-	<creationDate>12/26/07</creationDate>
-	<author>JoomlArt.com</author>
-	<authorEmail>webmaster@joomlart.com</authorEmail>
-	<authorUrl>http://www.joomlart.com</authorUrl>
+	<name>Fasad Specbud</name>
+	<version>1.0</version>
+	<creationDate>12.02.2013</creationDate>
+	<author></author>
+	<authorEmail></authorEmail>
 	<copyright></copyright>
 	<license>GNU/GPL version 2</license>
-	<description>JA PURITY DESCRIPTION</description>
+	<description></description>
 	<files>		
 	</files>
-	<images>
+	<css>
 		<filename>css/template.css</filename>
 	</css>
 	<positions>
